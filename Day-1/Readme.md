@@ -1,4 +1,4 @@
-## Typescript
+## [Typescript](https://www.canva.com/design/DAFRVo6KiiU/Y6terVDplneB3iad36-kJQ/view?utm_content=DAFRVo6KiiU&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 - TypeScript is JavaScript with added syntax for types.
 - Typescript is a superset of Javascript created by Microsoft.
@@ -6,21 +6,29 @@
 - Typescript helps developer to code better and make less mistakes.
 - It provides out-of-box suggestions for more interactive coding experience.
 
-```
-https://www.canva.com/design/DAFRVo6KiiU/Y6terVDplneB3iad36-kJQ/view
-```
-
 # Installation
 
 - npm init -y
 - npm i typescript -g
 - tsc --init
+- Configure `tsconfig.json` file
 
-# Add script
+```json
+{
+  "compilerOptions": {
+    "target": "ES6",
+    "outDir": "dist"
+  },
+  "include": ["src/**/*.ts"],
+  "exclude": ["node_modules"]
+}
+```
 
-`"start": "tsc src/filename.ts"`
-<br/>
-Note: File extensions is .ts or .tsx.
+- Command to run the program and want to watch the output
+
+```cmd
+tsc --watch
+```
 
 # Basic Types
 

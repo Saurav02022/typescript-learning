@@ -1,0 +1,10 @@
+/*
+string
+number
+boolean
+null
+undefined
+any
+Literal Types
+Union Types
+*/ 

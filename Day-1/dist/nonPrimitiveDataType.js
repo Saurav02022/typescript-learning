@@ -5,10 +5,10 @@
  * @param index number
  * @returns number
  */
-var getAtIndex = function (arr, index) {
+const getAtIndex = (arr, index) => {
     return arr[index];
 };
-var array = [1, 2, 3, 4, 5];
+let array = [1, 2, 3, 4, 5];
 console.log(getAtIndex(array, 0));
 console.log(getAtIndex(array, 2));
 // Void
