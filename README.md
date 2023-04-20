@@ -29,10 +29,6 @@ In the `src` folder, you'll find a collection of code examples that I've been wo
 
 I welcome contributions to this repository! If you find an error or have a suggestion for improvement, please create an issue or submit a pull request.
 
-## License
-
-This repository is licensed under the MIT License.
-
 ## Contact
 
 If you have any questions or want to connect, you can reach me at sk729584@gmail.com.
