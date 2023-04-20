@@ -1,16 +1,14 @@
 {
   "name": "day-1",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  "description": "- TypeScript is JavaScript with added syntax for types.\r - Typescript is a superset of Javascript created by Microsoft.\r - Typescript is compiled to Javascript.\r - Typescript helps developer to code better and make less mistakes.\r - It provides out-of-box suggestions for more interactive coding experience.",
+  "main": "index.ts",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "tsc index.ts"
+    "ts1": "tsc src/primitiveDataType.ts",
+    "ts2": "tsc src/nonPrimitiveDataType.ts"
   },
   "keywords": [],
   "author": "",
-  "license": "ISC",
-  "devDependencies": {
-    "tsc": "^2.0.4"
-  }
+  "license": "ISC"
 }
