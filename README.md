@@ -17,7 +17,8 @@ Here are some resources that I'm using to learn TypeScript:
 
 In the folders, you'll find a collection of code examples that I've been working on while learning TypeScript. These examples cover topics such as:
 
-# Day-1 
+# Day-1
+
 ### [`Introduction to Typescript`](https://www.canva.com/design/DAFRVo6KiiU/Y6terVDplneB3iad36-kJQ/view?utm_content=DAFRVo6KiiU&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton#1)
 
 ## Topics
@@ -32,8 +33,6 @@ In the folders, you'll find a collection of code examples that I've been working
    - Literal Types
    - Union Types
 2. Functions
-   - ES5 Function
-   - Arrow function
 3. Array
    - Array
    - Array Literal
@@ -41,16 +40,14 @@ In the folders, you'll find a collection of code examples that I've been working
    - Object
    - Object Literal
    - Record
-5. Custom Type
-   - Type
-# Day-2 
+
+# Day-2
+
 ### [Advance Typescript](https://www.canva.com/design/DAFRbdvZ-u0/OA0SUBxRnYXB2q83I2GtrQ/view?utm_content=DAFRbdvZ-u0&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 ## Topics
 
 1. Enum
-   - Numeric Enums
-   - String Enums
 2. tuple
 3. keyof
 4. typeof
@@ -60,6 +57,7 @@ In the folders, you'll find a collection of code examples that I've been working
 8. extends
 
 # Day-3
+
 ### `React with Typescript`
 
 ## Topics
@@ -73,6 +71,11 @@ In the folders, you'll find a collection of code examples that I've been working
    - Children
    - ReactNode
 
+## these things we should avoid to use.these can create problems or error.
+
+- any
+- Object
+- interface
 
 ## Contributing
 
@@ -82,5 +85,6 @@ I welcome contributions to this repository! If you find an error or have a sugge
 
 If you have any questions or want to connect, you can reach me at sk729584@gmail.com.
 <br/>
+
 - [LinkedIn](https://www.linkedin.com/in/saurav02022/)
 - [Portfolio](https://saurav02022.github.io/)
